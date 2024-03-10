@@ -1,5 +1,5 @@
-# Austria inflation prediction
-
+Research problem:
+# Will Austria's inflation return to its inflation target in 2 years?
 # Backlog:
 - [x] create first github repository and learn how to edit README
 - [x] create dataset
