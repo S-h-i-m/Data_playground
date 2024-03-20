@@ -4,7 +4,6 @@ Research problem:
 - [x] create first github repository and learn how to edit README
 - [x] create dataset
 - [x] create regression model
-- [ ] conduct statistical tests ()
 - [ ]   conduct statistical tests
 - Stationarity tests (Dickey-Fuller test)
 - Parameter significance tests (Student's t-test)
